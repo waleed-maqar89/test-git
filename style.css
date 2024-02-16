@@ -4,5 +4,7 @@ body {
 
 h1 {
   text-align: center;
-  margin-top: 5%;
+  margin: 5% auto;
+  width: 40%;
+  border: 5px solid rgba(80, 80, 255, .4);
 }
