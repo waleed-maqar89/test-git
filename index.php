@@ -9,7 +9,9 @@
 </head>
 
 <body>
-  <H1>GIT training</H1>
+  <H1 id="siteTitle">GIT training</H1>
+
+  <script src="main.js"></script>
 </body>
 
 </html>
