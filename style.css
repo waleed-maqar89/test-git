@@ -2,9 +2,20 @@ body {
   background-color: rgba(100, 100, 255, .6);
 }
 
-h1 {
+#siteTitle {
   text-align: center;
   margin: 5% auto;
   width: 40%;
   border: 5px solid rgba(80, 80, 255, .4);
+}
+
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+}
+
+.product-card {
+  margin: 10px;
+  padding: 5%;
+  background-color: rgba(150, 150, 200, .6);
 }
